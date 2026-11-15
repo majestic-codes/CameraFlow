@@ -3,6 +3,8 @@
 The changes apps notice, by release. CameraFlow follows semantic versioning: see
 [Source stability](README.md#source-stability) in the README.
 
+## Unreleased
+
 ## 1.0.0 - 2026-11-15
 
 The first public release: the stock Camera app's Photo mode re-created with public API as an "Add photo" flow, with

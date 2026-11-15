@@ -31,8 +31,10 @@ jobs:
           swift --version
       - name: Build
         run: swift build
+      # One test at a time: started together on the three cores of the runner, the tests wait for one another past
+      # their time limits.
       - name: Test
-        run: swift test
+        run: swift test --no-parallel
       # Compiles the iOS-only code and the tests for iOS: no simulator starts and no test runs.
       - name: Build for iOS
         run: >-

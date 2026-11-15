@@ -1,0 +1,38 @@
+name: Feature request
+description: Something CameraFlow does not do yet.
+labels: [enhancement]
+body:
+  - type: markdown
+    attributes:
+      value: >-
+        CameraFlow re-creates the stock Camera's Photo mode with public API only. "Known limitations" in the README
+        lists what it leaves out and why: a feature the public API cannot reproduce is not planned.
+  - type: textarea
+    id: need
+    attributes:
+      label: What the app needs
+      description: What the user of your app should be able to do, and what stands in the way today.
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: What CameraFlow could do
+      description: The behaviour on the screen, or the API you would call. A sketch of the call site helps.
+      render: swift
+  - type: dropdown
+    id: stock-camera
+    attributes:
+      label: The stock Camera
+      description: Whether the Photo mode of the stock Camera app does this.
+      options:
+        - It does this
+        - It does not do this
+        - Not sure
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: What you do instead
+      description: How the app works around it today, if it does.

@@ -1,5 +1,8 @@
 # CameraFlow
 
+[![CI](https://github.com/majestic-codes/CameraFlow/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/majestic-codes/CameraFlow/actions/workflows/ci.yml)
+[![License: MIT](https://img.shields.io/github/license/majestic-codes/CameraFlow)](LICENSE)
+
 <p align="center"><img src="https://github.com/user-attachments/assets/15c93b02-6563-4fd8-9a96-957a66a9e19f" alt="CameraFlow: zoom dial and lenses, Dual Capture, review" width="800"></p>
 
 A Swift package with the whole "Add photo" flow for an iOS app: the user takes photos with a camera that looks and
