@@ -42,6 +42,9 @@ swiftlint lint --strict
 CI runs these commands on every pull request and on every push to `main`: the first three on macOS with Xcode 27.2,
 SwiftLint on Linux in the `ghcr.io/realm/swiftlint:0.63.2` container. A pull request needs CI to pass.
 
+CI runs the tests one at a time, with `swift test --no-parallel`: started together on the three cores of its runner,
+the tests wait for one another past their time limits.
+
 A change to the public API or to its documentation also builds the documentation, the DocC catalog
 `Sources/CameraFlow/CameraFlow.docc` with the `///` comments, which fails on a warning, such as a link to a symbol that
 does not exist:
