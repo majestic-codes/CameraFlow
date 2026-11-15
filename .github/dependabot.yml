@@ -1,0 +1,12 @@
+version: 2
+updates:
+  # The package has no dependencies: the actions of the workflows are all there is to update.
+  - package-ecosystem: github-actions
+    directory: /
+    schedule:
+      interval: weekly
+    # A release has to be a week old before a pull request proposes it.
+    cooldown:
+      default-days: 7
+    commit-message:
+      prefix: CI
