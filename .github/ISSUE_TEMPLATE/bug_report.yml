@@ -1,0 +1,90 @@
+name: Bug report
+description: Something in CameraFlow does not work as documented.
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: >-
+        A security vulnerability does not belong here: report it privately, as the
+        [security policy](https://github.com/majestic-codes/CameraFlow/security/policy) describes.
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened
+      description: What you did, what you expected, and what happened instead. A screenshot or a screen recording helps.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      placeholder: |
+        1. Open the flow with the configuration below.
+        2. Take a photo.
+        3. …
+    validations:
+      required: true
+  - type: dropdown
+    id: presentation
+    attributes:
+      label: How the app shows the flow
+      options:
+        - CameraFlowView in cameraFlowCover
+        - CameraFlowViewController
+        - CameraFlowView presented another way
+    validations:
+      required: true
+  - type: textarea
+    id: configuration
+    attributes:
+      label: Configuration
+      description: >-
+        The `CameraFlowConfiguration` the app passes, and whether it passes a `locationProvider` or stored
+        `preferences`.
+      render: swift
+  - type: dropdown
+    id: example
+    attributes:
+      label: The Example app
+      description: >-
+        Whether `CameraFlowExample` shows the same, and with which launch arguments if any (see "Running the Example"
+        in the README).
+      options:
+        - It shows the same
+        - It does not show it
+        - Not tried
+  - type: input
+    id: cameraflow-version
+    attributes:
+      label: CameraFlow version
+      placeholder: "1.0.0"
+    validations:
+      required: true
+  - type: input
+    id: device
+    attributes:
+      label: Device
+      description: The model, or the simulator.
+      placeholder: iPhone 17 Pro
+    validations:
+      required: true
+  - type: input
+    id: ios-version
+    attributes:
+      label: iOS version
+      placeholder: "26.1"
+    validations:
+      required: true
+  - type: input
+    id: xcode-version
+    attributes:
+      label: Xcode version
+      placeholder: "27.2"
+  - type: textarea
+    id: log
+    attributes:
+      label: Log
+      description: >-
+        Messages of the `CameraFlow` subsystem from the Xcode console, or from the Console app with the device picked
+        and `subsystem:CameraFlow` searched for.
+      render: text

@@ -1,0 +1,918 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "NSCameraUsageDescription" : {
+      "comment" : "Privacy - Camera Usage Description",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "يلتقط الصور في العرض التوضيحي لـ CameraFlow."
+          }
+        },
+        "bg" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Прави снимки в демото на CameraFlow."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pořizuje fotky v ukázce CameraFlow."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tager fotos i CameraFlow-demoen."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nimmt in der CameraFlow-Demo Fotos auf."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Τραβάει φωτογραφίες στην επίδειξη του CameraFlow."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Takes photos in the camera flow demo."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hace fotos en la demo de CameraFlow."
+          }
+        },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Toma fotos en la demo de CameraFlow."
+          }
+        },
+        "et" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Teeb CameraFlow demos fotosid."
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ottaa kuvia CameraFlow-demossa."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prend des photos dans la démo CameraFlow."
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "מצלם תמונות בהדגמה של CameraFlow."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "CameraFlow डेमो में तस्वीरें लेता है।"
+          }
+        },
+        "hr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Snima fotografije u demo aplikaciji CameraFlow."
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fotókat készít a CameraFlow-demóban."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mengambil foto di demo CameraFlow."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Scatta foto nella demo di CameraFlow."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "CameraFlowデモで写真を撮影します。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "CameraFlow 데모에서 사진을 촬영합니다."
+          }
+        },
+        "lt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fotografuoja CameraFlow demonstracinėje versijoje."
+          }
+        },
+        "lv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Uzņem fotoattēlus CameraFlow demonstrācijā."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tar bilder i CameraFlow-demoen."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Maakt foto's in de CameraFlow-demo."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Robi zdjęcia w wersji demonstracyjnej CameraFlow."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tira fotos na demonstração do CameraFlow."
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tira fotografias na demonstração do CameraFlow."
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Face poze în demonstrația CameraFlow."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Снимает фото в демо CameraFlow."
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Robí fotky v ukážke CameraFlow."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tar bilder i CameraFlow-demon."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ถ่ายรูปภาพในเดโม CameraFlow"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "CameraFlow demosunda fotoğraf çeker."
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Знімає фото в демо CameraFlow."
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chụp ảnh trong bản demo CameraFlow."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "在CameraFlow演示中拍照。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "在CameraFlow示範中拍照。"
+          }
+        }
+      }
+    },
+    "NSLocationWhenInUseUsageDescription" : {
+      "comment" : "Privacy - Location When In Use Usage Description",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "يُستخدم موقعك لتسجيل المكان الذي التُقطت فيه الصور التي تلتقطها في العرض التوضيحي لـ CameraFlow."
+          }
+        },
+        "bg" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Местоположението ви се използва, за да се записва къде са направени снимките, които правите в демото на CameraFlow."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vaše poloha slouží k zaznamenání místa, kde byly pořízeny fotky, které vyfotíte v ukázce CameraFlow."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Din lokalitet bruges til at registrere, hvor de fotos, du tager i CameraFlow-demoen, blev taget."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dein Standort wird verwendet, um festzuhalten, wo die Fotos aufgenommen wurden, die du in der CameraFlow-Demo aufnimmst."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Η τοποθεσία σας χρησιμοποιείται για την καταγραφή του σημείου όπου τραβήχτηκαν οι φωτογραφίες που τραβάτε στην επίδειξη του CameraFlow."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Your location is used to record where the photos you take in the camera flow demo were taken."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tu ubicación se usa para registrar dónde se hicieron las fotos que haces en la demo de CameraFlow."
+          }
+        },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tu ubicación se usa para registrar dónde se tomaron las fotos que tomas en la demo de CameraFlow."
+          }
+        },
+        "et" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sinu asukohta kasutatakse, et salvestada, kus CameraFlow demos tehtud fotod pildistati."
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sijaintiasi käytetään tallentamaan paikka, jossa CameraFlow-demossa ottamasi kuvat otettiin."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Votre position sert à enregistrer le lieu où ont été prises les photos que vous prenez dans la démo CameraFlow."
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "המיקום שלך משמש לתיעוד המקום שבו צולמה כל תמונה שמצולמת בהדגמה של CameraFlow."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "आपके स्थान का उपयोग यह दर्ज करने के लिए किया जाता है कि CameraFlow डेमो में आपकी ली गई तस्वीरें कहाँ ली गई थीं।"
+          }
+        },
+        "hr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vaša se lokacija koristi za bilježenje mjesta na kojem su snimljene fotografije koje snimite u demo aplikaciji CameraFlow."
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A tartózkodási helye annak rögzítésére szolgál, hogy hol készültek a CameraFlow-demóban készített fotói."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lokasi Anda digunakan untuk mencatat tempat pengambilan foto yang Anda ambil di demo CameraFlow."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La tua posizione viene usata per registrare dove sono state scattate le foto che scatti nella demo di CameraFlow."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "CameraFlowデモで撮影した写真の撮影場所を記録するために、位置情報を使用します。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "CameraFlow 데모에서 찍은 사진의 촬영 장소를 기록하는 데 사용자의 위치가 사용됩니다."
+          }
+        },
+        "lt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jūsų vieta naudojama įrašyti, kur buvo padarytos nuotraukos, kurias darote CameraFlow demonstracinėje versijoje."
+          }
+        },
+        "lv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jūsu atrašanās vieta tiek izmantota, lai reģistrētu, kur uzņemti fotoattēli, ko uzņemat CameraFlow demonstrācijā."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Posisjonen din brukes til å registrere hvor bildene du tar i CameraFlow-demoen, ble tatt."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Je locatie wordt gebruikt om vast te leggen waar de foto's die je in de CameraFlow-demo maakt, zijn gemaakt."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Twoja lokalizacja służy do zapisywania miejsc, w których powstały zdjęcia zrobione przez Ciebie w wersji demonstracyjnej CameraFlow."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sua localização é usada para registrar onde foram tiradas as fotos que você tira na demonstração do CameraFlow."
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A sua localização é utilizada para registar onde foram tiradas as fotografias que tira na demonstração do CameraFlow."
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Localizarea dvs. este folosită pentru a înregistra unde au fost făcute pozele pe care le faceți în demonstrația CameraFlow."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ваша геопозиция используется, чтобы записывать, где сняты фото, сделанные Вами в демо CameraFlow."
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vaša poloha sa používa na zaznamenanie miesta, kde vznikli fotky, ktoré urobíte v ukážke CameraFlow."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Din plats används för att registrera var bilderna du tar i CameraFlow-demon togs."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ตำแหน่งของคุณจะถูกใช้เพื่อบันทึกสถานที่ที่ถ่ายรูปภาพที่คุณถ่ายในเดโม CameraFlow"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Konumunuz, CameraFlow demosunda çektiğiniz fotoğrafların nerede çekildiğini kaydetmek için kullanılır."
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ваша геопозиція використовується, щоб записувати, де знято фото, які ви робите в демо CameraFlow."
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vị trí của bạn được dùng để ghi lại nơi chụp những ảnh bạn chụp trong bản demo CameraFlow."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "你的位置用于记录在CameraFlow演示中所拍照片的拍摄地点。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "你的位置用於記錄在CameraFlow示範中所拍照片的拍攝地點。"
+          }
+        }
+      }
+    },
+    "NSPhotoLibraryAddUsageDescription" : {
+      "comment" : "Privacy - Photo Library Additions Usage Description",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "يحفظ الصور الملتقطة في العرض التوضيحي لـ CameraFlow في مكتبة صورك."
+          }
+        },
+        "bg" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Запазва снимките, направени в демото на CameraFlow, във вашата фотобиблиотека."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ukládá fotky pořízené v ukázce CameraFlow do vaší knihovny fotek."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gemmer de fotos, der tages i CameraFlow-demoen, i dit fotobibliotek."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sichert die in der CameraFlow-Demo aufgenommenen Fotos in deiner Fotomediathek."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Αποθηκεύει τις φωτογραφίες που τραβήχτηκαν στην επίδειξη του CameraFlow στη βιβλιοθήκη φωτογραφιών σας."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Saves the photos taken in the camera flow demo to your photo library."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Guarda en tu fototeca las fotos hechas en la demo de CameraFlow."
+          }
+        },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Guarda en tu fototeca las fotos tomadas en la demo de CameraFlow."
+          }
+        },
+        "et" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Salvestab CameraFlow demos tehtud fotod sinu fototeeki."
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tallentaa CameraFlow-demossa otetut kuvat kuvakirjastoosi."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enregistre dans votre photothèque les photos prises dans la démo CameraFlow."
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "שומר את התמונות שצולמו בהדגמה של CameraFlow בספריית התמונות שלך."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "CameraFlow डेमो में ली गई तस्वीरों को आपकी तस्वीर लाइब्रेरी में सहेजता है।"
+          }
+        },
+        "hr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sprema fotografije snimljene u demo aplikaciji CameraFlow u vašu medijateku fotografija."
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A CameraFlow-demóban készített fotókat a fotókönyvtárába menti."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Menyimpan foto yang diambil di demo CameraFlow ke perpustakaan foto Anda."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Salva nella tua libreria foto le foto scattate nella demo di CameraFlow."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "CameraFlowデモで撮影した写真を写真ライブラリに保存します。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "CameraFlow 데모에서 찍은 사진을 사진 보관함에 저장합니다."
+          }
+        },
+        "lt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Išsaugo CameraFlow demonstracinėje versijoje padarytas nuotraukas jūsų nuotraukų bibliotekoje."
+          }
+        },
+        "lv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Saglabā CameraFlow demonstrācijā uzņemtos fotoattēlus jūsu fotoattēlu bibliotēkā."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lagrer bildene som tas i CameraFlow-demoen, i bildebiblioteket ditt."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bewaart de foto's die in de CameraFlow-demo zijn gemaakt in je fotobibliotheek."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zachowuje zdjęcia zrobione w wersji demonstracyjnej CameraFlow w Twojej bibliotece zdjęć."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Salva na sua fototeca as fotos tiradas na demonstração do CameraFlow."
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Guarda na sua fototeca as fotografias tiradas na demonstração do CameraFlow."
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Salvează pozele făcute în demonstrația CameraFlow în biblioteca dvs. foto."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Сохраняет фото, снятые в демо CameraFlow, в Вашу медиатеку."
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ukladá fotky urobené v ukážke CameraFlow do vašej knižnice fotiek."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sparar bilderna som tas i CameraFlow-demon i ditt bildbibliotek."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "บันทึกรูปภาพที่ถ่ายในเดโม CameraFlow ไปยังคลังรูปภาพของคุณ"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "CameraFlow demosunda çekilen fotoğrafları fotoğraf arşivinize kaydeder."
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Зберігає фото, зняті в демо CameraFlow, у вашу фототеку."
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lưu ảnh chụp trong bản demo CameraFlow vào thư viện ảnh của bạn."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "将在CameraFlow演示中拍摄的照片保存到你的照片图库。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "將在CameraFlow示範中拍攝的照片儲存到你的照片圖庫。"
+          }
+        }
+      }
+    },
+    "NSPhotoLibraryUsageDescription" : {
+      "comment" : "Privacy - Photo Library Usage Description",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "يحفظ الصور الملتقطة في العرض التوضيحي لـ CameraFlow في ألبوم ضمن مكتبة صورك."
+          }
+        },
+        "bg" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Запазва снимките, направени в демото на CameraFlow, в албум във вашата фотобиблиотека."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ukládá fotky pořízené v ukázce CameraFlow do alba ve vaší knihovně fotek."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gemmer de fotos, der tages i CameraFlow-demoen, i et album i dit fotobibliotek."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sichert die in der CameraFlow-Demo aufgenommenen Fotos in einem Album deiner Fotomediathek."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Αποθηκεύει τις φωτογραφίες που τραβήχτηκαν στην επίδειξη του CameraFlow σε ένα άλμπουμ της βιβλιοθήκης φωτογραφιών σας."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Saves the photos taken in the camera flow demo into an album of your photo library."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Guarda las fotos hechas en la demo de CameraFlow en un álbum de tu fototeca."
+          }
+        },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Guarda las fotos tomadas en la demo de CameraFlow en un álbum de tu fototeca."
+          }
+        },
+        "et" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Salvestab CameraFlow demos tehtud fotod sinu fototeegi albumisse."
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tallentaa CameraFlow-demossa otetut kuvat kuvakirjastosi albumiin."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enregistre les photos prises dans la démo CameraFlow dans un album de votre photothèque."
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "שומר את התמונות שצולמו בהדגמה של CameraFlow באלבום בספריית התמונות שלך."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "CameraFlow डेमो में ली गई तस्वीरों को आपकी तस्वीर लाइब्रेरी के एक ऐल्बम में सहेजता है।"
+          }
+        },
+        "hr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sprema fotografije snimljene u demo aplikaciji CameraFlow u album u vašoj medijateci fotografija."
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A CameraFlow-demóban készített fotókat a fotókönyvtára egyik albumába menti."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Menyimpan foto yang diambil di demo CameraFlow ke album di perpustakaan foto Anda."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Salva le foto scattate nella demo di CameraFlow in un album della tua libreria foto."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "CameraFlowデモで撮影した写真を写真ライブラリ内のアルバムに保存します。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "CameraFlow 데모에서 찍은 사진을 사진 보관함의 앨범에 저장합니다."
+          }
+        },
+        "lt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Išsaugo CameraFlow demonstracinėje versijoje padarytas nuotraukas albume jūsų nuotraukų bibliotekoje."
+          }
+        },
+        "lv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Saglabā CameraFlow demonstrācijā uzņemtos fotoattēlus albumā jūsu fotoattēlu bibliotēkā."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lagrer bildene som tas i CameraFlow-demoen, i et album i bildebiblioteket ditt."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bewaart de foto's die in de CameraFlow-demo zijn gemaakt in een album in je fotobibliotheek."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zachowuje zdjęcia zrobione w wersji demonstracyjnej CameraFlow w albumie w Twojej bibliotece zdjęć."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Salva as fotos tiradas na demonstração do CameraFlow em um álbum da sua fototeca."
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Guarda as fotografias tiradas na demonstração do CameraFlow num álbum da sua fototeca."
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Salvează pozele făcute în demonstrația CameraFlow într-un album din biblioteca dvs. foto."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Сохраняет фото, снятые в демо CameraFlow, в альбом Вашей медиатеки."
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ukladá fotky urobené v ukážke CameraFlow do albumu vo vašej knižnici fotiek."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sparar bilderna som tas i CameraFlow-demon i ett album i ditt bildbibliotek."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "บันทึกรูปภาพที่ถ่ายในเดโม CameraFlow ไปยังอัลบั้มในคลังรูปภาพของคุณ"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "CameraFlow demosunda çekilen fotoğrafları fotoğraf arşivinizdeki bir albüme kaydeder."
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Зберігає фото, зняті в демо CameraFlow, в альбом вашої фототеки."
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lưu ảnh chụp trong bản demo CameraFlow vào một album trong thư viện ảnh của bạn."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "将在CameraFlow演示中拍摄的照片保存到你照片图库中的相簿。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "將在CameraFlow示範中拍攝的照片儲存到你照片圖庫中的相簿。"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
