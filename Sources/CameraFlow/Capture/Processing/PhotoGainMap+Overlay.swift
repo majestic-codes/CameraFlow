@@ -93,8 +93,8 @@ struct GainMapUnderOverlay {
         let coverage = try await coverages.levels(width: width, height: pixels.height, drawingOverlay: drawOverlay)
         let noBoost = Int(noBoostLevel)
         var levels = Data(count: width * pixels.height)
-        levels.withUnsafeMutableBytes { target in
-            pixels.data.withUnsafeBytes { source in
+        levels.withUnsafeMutableBytes { (target: UnsafeMutableRawBufferPointer) in
+            pixels.data.withUnsafeBytes { (source: UnsafeRawBufferPointer) in
                 for row in 0..<pixels.height {
                     for column in 0..<width {
                         let level = Int(source[row * pixels.bytesPerRow + column])
