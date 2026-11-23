@@ -117,8 +117,8 @@ struct AuxiliaryPixels {
         let uprightHeight = isTurned ? width : height
         let rowLength = uprightWidth * bytesPerPixel
         var turned = Data(count: rowLength * uprightHeight)
-        turned.withUnsafeMutableBytes { target in
-            data.withUnsafeBytes { source in
+        turned.withUnsafeMutableBytes { (target: UnsafeMutableRawBufferPointer) in
+            data.withUnsafeBytes { (source: UnsafeRawBufferPointer) in
                 for row in 0..<uprightHeight {
                     for column in 0..<uprightWidth {
                         let stored = orientation.storedPixel(
